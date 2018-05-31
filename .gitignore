@@ -1,0 +1,10 @@
+.DS_Store
+*.pyc
+*.swp
+*.db
+*.env
+*.csv
+
+venv/
+credentials.py
+scratch.py
